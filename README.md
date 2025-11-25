@@ -1,5 +1,3 @@
-# Taxpal
-
 🏦 TaxPal - Personal Finance & Tax Management System
 MERN Stack TypeScript React Node.js MongoDB Express.js
 
